@@ -1,1 +1,1 @@
-# portfolio-nsights-sql
+# portfolio-insights-sql
